@@ -1,0 +1,1 @@
+bedtools merge -i data/index5/bam/index5_sorted.bam > data/index5/bed/index5_count.bed -c 1 -o count

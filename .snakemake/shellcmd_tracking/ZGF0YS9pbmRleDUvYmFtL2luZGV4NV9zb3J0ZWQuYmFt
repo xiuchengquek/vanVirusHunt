@@ -1,0 +1,1 @@
+samtools sort -T /tmp/index5/ -o data/index5/bam/index5_sorted.bam data/index5/bam/index5.bam

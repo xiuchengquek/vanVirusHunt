@@ -1,0 +1,1 @@
+samtools index data/index5/bam/index5_sorted.bam
